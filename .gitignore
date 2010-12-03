@@ -2,3 +2,7 @@
 .flexLibProperties
 .project
 .settings
+docs
+bin
+.DS_Store
+build.properties

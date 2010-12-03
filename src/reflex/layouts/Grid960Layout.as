@@ -7,6 +7,8 @@ package reflex.layouts
 	import reflex.layouts.Layout;
 	import reflex.measurement.setSize;
 	import reflex.styles.resolveStyle;
+	import reflex.measurement.resolveWidth;
+	import reflex.measurement.resolveHeight;
 	
 	[LayoutProperty(name="style.grid", measure="true")]
 	[LayoutProperty(name="style.prefix", measure="true")]

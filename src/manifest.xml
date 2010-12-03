@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentPackage>
+	
+	<!-- layouts -->
+	<component id="Grid960Layout" class="reflex.layouts.Grid960Layout" />
+	<component id="VerticalCoverFlowLayout" class="reflex.layouts.VerticalCoverFlowLayout" />
+	
+	<!-- text -->
+	<component id="TextLayoutDisplay" class="reflex.text.TextLayoutDisplay" />
+	
+</componentPackage>

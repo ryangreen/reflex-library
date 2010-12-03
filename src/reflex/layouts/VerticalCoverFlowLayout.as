@@ -19,6 +19,8 @@ package reflex.layouts
 	import reflex.layouts.ILayout;
 	import reflex.layouts.Layout;
 	import reflex.measurement.resolveWidth;
+	import reflex.measurement.resolveHeight;
+	import flash.events.Event;
 	
 	[LayoutProperty(name="width", measure="true")]
 	[LayoutProperty(name="height", measure="true")]
