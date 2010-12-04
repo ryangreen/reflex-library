@@ -12,7 +12,7 @@
 		<antcall target="init" />
 		<antcall target="clean" />
 		<antcall target="compile" />
-		<!--<antcall target="docs" />-->
+		<antcall target="docs" />
 	</target>
 	
 	<target name="init">
