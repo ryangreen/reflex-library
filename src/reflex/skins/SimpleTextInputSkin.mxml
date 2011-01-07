@@ -95,11 +95,6 @@
 			<rx:SolidColorStroke weight="{borderThickness}" color="{borderColor}" />
 		</rx:stroke>
 	</rx:Rect>
-	<rx:Rect id="mask" left="0" top="0" right="0" bottom="0">
-		<rx:fill>
-			<rx:SolidColor color="{backgroundColor}" />
-		</rx:fill>
-	</rx:Rect>
 	
 	<rx:TextFieldDisplay id="textField" text="" type="{TextFieldType.INPUT}" />
 	
