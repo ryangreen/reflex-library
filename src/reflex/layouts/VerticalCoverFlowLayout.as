@@ -138,7 +138,7 @@ package reflex.layouts
 			}
 		}
 		
-		[EventListener(type="valueChange", target="vertical")]
+		[EventListener(event="valueChange", target="vertical")]
 		public function onPositionChange(event:Event):void {
 			if(target) {
 				Invalidation.invalidate(target as DisplayObject, "layout");
